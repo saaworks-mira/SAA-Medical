@@ -1,0 +1,16 @@
+                          STOOL EXAMINATION REPORT
+
+  MACROSCOPIC
+
+  Colour          :
+  Consistency     :
+  Reaction        :
+  Blood           :
+  Mucus           :
+
+Microscopic
+
+  Ova             : 
+  Cyst            :
+  Vegetative form :
+  Occult Blood    :
